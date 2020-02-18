@@ -1,0 +1,5 @@
+Credentials cache: API:8727
+        Principal: mmark@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Jan 28 19:47:30 2019  Jan 29 19:47:30 2019  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
